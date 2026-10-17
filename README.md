@@ -126,7 +126,6 @@ The project was tested locally with two players. The network manager allows up t
 
 ## 🙏 Credits
 
-- The core networking setup was built together with my instructor; I developed the rest on top of it.
 - 3D models and Mirror from the Unity Asset Store, character from Mixamo, sound from Pixabay.
 - Cover art: AI-generated concept art.
 
